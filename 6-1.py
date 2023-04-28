@@ -1,6 +1,6 @@
 import random
 
-c = 0
+c = 1
 
 def hangman(word):
     wrong = 0
